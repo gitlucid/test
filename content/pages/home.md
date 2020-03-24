@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: 'Test '
 featuredImage: 'https://ucarecdn.com/bb4c64ed-a790-4bb8-84be-7b63b1515867/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: The standard chunk of Lorem Ipsum used since the 1500s is reproduced below
 accordion:
   - content: >-
       Contrary to popular belief, Lorem Ipsum is not simply random text. It has
